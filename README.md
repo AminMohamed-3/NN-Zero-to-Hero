@@ -1,0 +1,1 @@
+This is my study repository for Karpathy's Neural Networks: Zero to Hero Playlist.
